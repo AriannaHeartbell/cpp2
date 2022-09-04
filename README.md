@@ -8,7 +8,7 @@ template: stack
 
 file_IO: copy(grade) to result
 
-STL_vector&iterator: lord file and make vector and reverse the order and save in new file.
+STL_vector&iterator: load file and make vector and reverse the order and save in new file.
 1) char : it makes one more push.
 2) string : not.
 What is different?
