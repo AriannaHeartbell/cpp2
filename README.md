@@ -21,3 +21,7 @@ List
 
 4) type
 - typecast : 'static' cast(for basic type cast) vs 'dynamic' cast(for for point/reference of class cast)
+
+5) function pointer
+- 1 fpointer for function compositon.
+- 2 size of pointer difference.
