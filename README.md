@@ -1,24 +1,20 @@
 List
 
-<Capsule>
+1) Capsule
 friend.cpp: Psycho-Pass
 
 
-<Polymorphism: for STL>
+2) Polymorphism: for STL
 operator overloding.cpp: vector operation (+, -, inner product) in R^2
-
 template: stack
-
 STL_vector&iterator: load file and make vector and reverse the order and save in new file.
-1) char : it makes one more push.
-2) string : not.
-What is different?
+   char : it makes one more push.
+   string : not.
+   What is different?
 
-
-<IO: Memory <-> HDD, SSD>
+3) IO: Memory <-> HDD, SSD
 file_IO: copy(grade) to result
-exception 
+try catch
 
-
-<type>
+4) type
 typecast : 'static' cast(for basic type cast) vs 'dynamic' cast(for for point/reference of class cast)
