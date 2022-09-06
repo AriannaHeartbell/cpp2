@@ -25,3 +25,9 @@ List
 5) function pointer
 - 1 fpointer for function compositon.
 - 2 size of pointer difference.
+
+*****
+- smart pointer
+- seperate compilation
+- call by reference
+- design pattern
